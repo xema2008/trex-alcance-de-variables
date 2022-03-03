@@ -1,0 +1,1 @@
+# trex-alcance-de-variables
